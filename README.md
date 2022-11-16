@@ -1,2 +1,2 @@
 # ChromePart
-chrome浏览器
+用于释放chrome浏览器部件
